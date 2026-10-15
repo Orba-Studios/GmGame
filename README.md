@@ -12,3 +12,4 @@ GmGame is a lightweight, simple desktop game launcher and library manager built 
 2. Install PyInstaller via terminal:
    ```bash
    pip install -r requirements.txt
+   python -m PyInstaller --noconsole --onefile main.py
